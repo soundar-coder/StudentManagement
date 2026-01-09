@@ -60,10 +60,10 @@ public UserDetails loadUserByUsername(String username) {
 
 🗄️ Database Configuration
 Create database:
-CREATE DATABASE studentdb;
+CREATE DATABASE student_entity;
 
 Update application.properties:
-spring.datasource.url=jdbc:mysql://localhost:3306/studentdb
+spring.datasource.url=jdbc:mysql://localhost:3306/student_entity
 spring.datasource.username=root
 spring.datasource.password=yourpassword
 
