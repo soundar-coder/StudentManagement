@@ -79,7 +79,7 @@ mvn spring-boot:run
 
 App will start at:
 
-http://localhost:8080
+http://localhost:8080->runs only on localhost not over internet
 
  API Endpoints
 🔓 Public
